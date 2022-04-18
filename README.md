@@ -57,3 +57,16 @@ After summarizing our Suspension Data:
 
 ## Study Design: MechaCar vs Competition
 
+This is a study of the factors to considering when purchasing a car and what is valued in transport. Customers consider many things when evaluating a purchase. There are economical considerations when regular transportation is needed.
+
+- What metric or metrics are you going to test?
+  - I will be studying the MechaCar carrying capacity in cubic feet. We can compare the internal storage with our competitors.
+
+- What is the null hypothesis or alternative hypothesis?
+  - Alternative Hypothesis: The MechaCar prototype's carrying capicity is statistically larger or smaller then its competitors.
+
+- What statistical test would you use to test the hypothesis? And why?
+  - The best test for this would be two-sample t-tests as it is a method used to test whether the unknown population means of two groups are equal or not.  
+
+- What data is needed to run the statistical test?
+  - We would need the internal storage capacity in cubic feet for the MechaCar prototypes and that of the competitors.
